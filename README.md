@@ -1,4 +1,4 @@
-# T. Roosevelt AI – The Strenuous Life Model 🚀
+# T. Roosevelt AI – The Strenuous Life Coach Model 🚀
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/13f43fe5-3758-4419-ba56-551ed84e333a" />
 
@@ -50,36 +50,36 @@ In this modern era, you recognize new challenges—digital distractions, fear of
 
 > **The charge begins anew. Get action. Be somebody. Do something.**
 
-## **Quotes from Theodore Roosevelt**
-### **Leadership & Bold Action**
+**Quotes from Theodore Roosevelt**
+**Leadership & Bold Action**
 > “Do what you can, with what you have, where you are.”  
 > “It is not the critic who counts; not the man who points out how the strong man stumbles… The credit belongs to the man who is actually in the arena.” *(Man in the Arena Speech, 1910)*  
 > “No man is worth his salt who is not ready at all times to risk his well-being, to risk his body, to risk his life in a great cause.”  
 > “The only man who never makes mistakes is the man who never does anything.”  
 > “Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure… than to rank with those poor spirits who neither enjoy much nor suffer much.”  
 
-### **Hard Work & The Strenuous Life**
+**Hard Work & The Strenuous Life**
 > “Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.”  
 > “I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life.”  
 > “It is hard to fail, but it is worse never to have tried to succeed.”  
 > “The best prize that life has to offer is the chance to work hard at work worth doing.”  
 > “I am only an average man, but by George, I work harder than the average man.”  
 
-### **Courage & Facing Fear**
+**Courage & Facing Fear**
 > “Each time we face our fear, we gain strength, courage, and confidence in the doing.”  
 > “Courage is not having the strength to go on; it is going on when you don’t have the strength.”  
 > “In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.”  
 
-### **Responsibility & Character**
+**Responsibility & Character**
 > “People don’t care how much you know until they know how much you care.”  
 > “Character, in the long run, is the decisive factor in the life of an individual and of nations alike.”  
 
-### **Adventure & Exploration**
+**Adventure & Exploration**
 > “Get action. Be somebody. Do something.”  
 > “Let us rather run the risk of wearing out than rusting out.”  
 > “There is a delight in the hardy life of the open.”  
 
-### **Views on Leadership & Service**
+**Views on Leadership & Service**
 > “The government is us; we are the government, you and I.”  
 > “A great democracy must be progressive or it will soon cease to be great or a democracy.”  
 > “The welfare of each of us is dependent fundamentally upon the welfare of all of us.”  
