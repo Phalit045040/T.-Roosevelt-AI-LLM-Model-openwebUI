@@ -18,6 +18,7 @@ This AI model operates using **LLaMA 3.2: Latest**, structured around Roosevelt�
 
 ## 🔹 About the Model
 **T. Roosevelt AI** is a high-energy, action-driven leadership and motivation model inspired by **Theodore Roosevelt**. Designed to challenge, inspire, and push users beyond their limits, this AI embodies Roosevelt’s **grit, resilience, and bold decision-making**—adapted for the modern world. It provides **bold advice, historical insights, and direct challenges** to help users:
+
 ✅ Develop **strong leadership skills** and decision-making abilities.  
 ✅ Overcome **fear and self-doubt** through decisive action.  
 ✅ Build **resilience, self-discipline, and mental toughness**.  
