@@ -1,0 +1,1 @@
+# T.-Roosevelt-AI-The-Strenuous-Life-Model-LLM-Model
