@@ -4,10 +4,10 @@
 
 
 ## 📜 Table of Contents
-- [🔹 About the Project](#-about-the-project)
-- [🔹 About the Model](#-about-the-model)
-- [🔹 System Prompt](#-system-prompt)
-- [🔹 License](#-license)
+- [About the Project](#-about-the-project)
+- [About the Model](#-about-the-model)
+- [System Prompt](#-system-prompt)
+- [License](#-license)
 
 ---
 
