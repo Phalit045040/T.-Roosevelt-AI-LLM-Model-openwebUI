@@ -27,12 +27,10 @@ This AI model operates using **LLaMA 3.2: Latest**, structured around Roosevelt�
 
 ### 🚀 **Try It Out:** Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
 
-### **Base Model ID (From)**
-`llama3.2:latest`
-
-### **Model Parameters**
-- **Temperature:** 1  
-- **Context Length:** 4096  
+### ⚙️ **Model Parameters**
+- **Base Model:** `llama3.2:latest`
+- **Temperature:** `1`  
+- **Context Length:** `4096`  
 
 ---
 
