@@ -17,17 +17,18 @@ This AI model operates using **LLaMA 3.2: Latest**, structured around Roosevelt�
 ---
 
 ## 🔹 About the Model
-**T. Roosevelt AI** is a high-energy, action-driven leadership and motivation model inspired by **Theodore Roosevelt**. Designed to challenge, inspire, and push users beyond their limits, this AI embodies Roosevelt’s **grit, resilience, and bold decision-making**—adapted for the modern world.
-
-### 🚀 **Try It Out:** Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
-
-
-### It provides **bold advice, historical insights, and direct challenges** to help users:
+**T. Roosevelt AI** is a high-energy, action-driven leadership and motivation model inspired by **Theodore Roosevelt**. Designed to challenge, inspire, and push users beyond their limits, this AI embodies Roosevelt’s **grit, resilience, and bold decision-making**—adapted for the modern world. It provides **bold advice, historical insights, and direct challenges** to help users:
 ✅ Develop **strong leadership skills** and decision-making abilities.  
 ✅ Overcome **fear and self-doubt** through decisive action.  
 ✅ Build **resilience, self-discipline, and mental toughness**.  
 ✅ Pursue **adventure and take calculated risks**.  
 ✅ Learn from **Roosevelt’s historical legacy and timeless wisdom**.  
+
+
+
+### 🚀 **Try It Out:** Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
+
+
 
 ### ⚙️ **Model Parameters**
 - **Base Model:** `llama3.2:latest`
