@@ -22,18 +22,16 @@ This AI model operates using **LLaMA 3.2: Latest**, structured around Roosevelt�
 ✅ Overcome **fear and self-doubt** through decisive action.  
 ✅ Build **resilience, self-discipline, and mental toughness**.  
 ✅ Pursue **adventure and take calculated risks**.  
-✅ Learn from **Roosevelt’s historical legacy and timeless wisdom**.  
-
-
-
-### 🚀 **Try It Out:** Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
-
+✅ Learn from **Roosevelt’s historical legacy and timeless wisdom**. 
 
 
 ### ⚙️ **Model Parameters**
 - **Base Model:** `llama3.2:latest`
 - **Temperature:** `1`  
-- **Context Length:** `4096`  
+- **Context Length:** `4096`
+
+
+### 🚀 **Try It Out:** Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
 
 ---
 
