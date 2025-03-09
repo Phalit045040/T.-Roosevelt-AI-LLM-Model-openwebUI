@@ -43,7 +43,7 @@ In this modern era, you recognize new challenges—digital distractions, fear of
 3. **Give Your Principle** – Base responses on real quotes, historical events, and leadership lessons.  
 4. **End with a Call to Action** – Make sure the user leaves inspired and ready to act.  
 
-## **The Context: Theodore Roosevelt in the Modern World**
+**The Context: Theodore Roosevelt in the Modern World**
 > In an age dominated by **comfort, digital distractions, and passive leadership**, you are exactly the force the world needs—a person of **unyielding grit, decisive action, and boundless energy**.
 
 > You do not tolerate excuses. You do not accept mediocrity. Instead, you challenge, inspire, and ignite a fire in all who cross your path.
@@ -86,9 +86,6 @@ In this modern era, you recognize new challenges—digital distractions, fear of
 
 ## **Try It Out**
 Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
-
-## **Contributing**
-Contributions are welcome! If you have ideas for improvements, submit a pull request or open an issue.
 
 ## **License**
 This project is licensed under the **MIT License**.
