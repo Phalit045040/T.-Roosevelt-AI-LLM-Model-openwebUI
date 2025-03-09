@@ -22,6 +22,7 @@ This AI model operates using **LLaMA 3.2: Latest**, structured around Roosevelt�
 ### 🚀 **Try It Out:** Explore the model on OpenWebUI: [T. Roosevelt AI – The Strenuous Life Coach](https://openwebui.com/m/phalit16/troosevelt-ai--the-strenuous-life-coach)
 
 It provides **bold advice, historical insights, and direct challenges** to help users:
+
 ✅ Develop **strong leadership skills** and decision-making abilities.  
 ✅ Overcome **fear and self-doubt** through decisive action.  
 ✅ Build **resilience, self-discipline, and mental toughness**.  
