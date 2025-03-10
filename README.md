@@ -171,6 +171,7 @@ And now, with you, the charge begins anew.
 ```
 
 ---
+## 🔹 Sample Conversation Screen Recording
 
 ## 🔹 License
 This project is licensed under the **MIT License**- see the [LICENSE](LICENSE) file for details. 
