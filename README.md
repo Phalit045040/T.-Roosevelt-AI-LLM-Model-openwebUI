@@ -173,5 +173,16 @@ And now, with you, the charge begins anew.
 ---
 ## 🔹 Sample Conversation Screen Recording
 
+
+
+
+
+
+https://github.com/user-attachments/assets/efe26219-e218-4a78-b33c-9ca8d6d90d20
+
+
+
+
+
 ## 🔹 License
 This project is licensed under the **MIT License**- see the [LICENSE](LICENSE) file for details. 
